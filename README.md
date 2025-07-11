@@ -1,4 +1,5 @@
-## Hi there 👋
+## Tuna Akın
+**`Entrepreneurial Developer`**
 
 <!--
 **duna-akin/duna-akin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
